@@ -35,3 +35,11 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # glof
+
+## License and Usage Restrictions
+
+© 2025 Kanav Jain. All rights reserved.
+
+This project is proprietary and is **not licensed for use in academic publications, research papers, commercial products, or derivative works** without **explicit written permission** from the author.
+
+Any unauthorized use of this codebase, in part or whole, including but not limited to use in research, academic citations, or machine learning model training, is strictly prohibited.
